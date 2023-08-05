@@ -1,7 +1,7 @@
 <meta name="description" content="Vineet's Github profile">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=25F7B6&width=500&height=65&lines=Hey+there+%F0%9F%91%8B;I+am+Vineet+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+am+full+stack+developer+%F0%9F%92%BB;I+love+Javascript+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=25F7B6&width=500&height=65&lines=Hey+there+%F0%9F%91%8B;I+am+Vineet+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+am+a+full+stack+developer+%F0%9F%92%BB;I+love+Javascript+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 💫 About Me:
 
