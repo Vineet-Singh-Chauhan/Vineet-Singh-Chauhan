@@ -1,9 +1,10 @@
 <meta name="description" content="Vineet's Github profile">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
+<!-- 
+[![Vineet's GitHub Banner](./assets/images/Vineet_banner.png)](https://www.linkedin.com/in/vineet-singh-chauhan/) -->
+<img src="./assets/images/Vineet_banner.png">
 
-[![Vineet's GitHub Banner](./assets/images/Vineet_banner.png)](https://www.linkedin.com/in/vineet-singh-chauhan/)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=25F7B6&center=true&width=500&height=65&lines=Hey+there+%F0%9F%91%8B;I+am+Vineet+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+am+full+stack+developer+%F0%9F%92%BB;I+love+Javascript+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=25F7B6&width=500&height=65&lines=Hey+there+%F0%9F%91%8B;I+am+Vineet+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+am+full+stack+developer+%F0%9F%92%BB;I+love+Javascript+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 💫 About Me:
 
@@ -51,11 +52,11 @@
     <a href="https://www.linkedin.com/in/vineet-singh-chauhan/">
           <img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.codechef.com/users/chauhansvineet">
-          <img src="https://img.shields.io/badge/codechef-gray.svg?style=for-the-badge&logo=codechef&logoColor=white">
-    </a>
     <a href="https://leetcode.com/chauhansvineet/">
           <img src="https://img.shields.io/badge/leetcode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=red">
+    </a>
+    <a href="https://www.codechef.com/users/chauhansvineet">
+          <img src="https://img.shields.io/badge/codechef-gray.svg?style=for-the-badge&logo=codechef&logoColor=white">
     </a>
 
   </p>
