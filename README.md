@@ -54,7 +54,6 @@
     <a href="https://www.codechef.com/users/chauhansvineet">
           <img src="https://img.shields.io/badge/codechef-gray.svg?style=for-the-badge&logo=codechef&logoColor=white">
     </a>
-
     <a href="https://leetcode.com/chauhansvineet/">
           <img src="https://img.shields.io/badge/leetcode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=red">
     </a>
